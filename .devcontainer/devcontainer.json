@@ -1,0 +1,4 @@
+{
+  "name": "My Python Codespace",
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11",
+}
